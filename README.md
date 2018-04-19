@@ -1,1 +1,3 @@
-# moja_pierwsza_strona_internetowa
+# Agata Żbikowska
+
+Tu będą informacje o mnie, *Agacie*

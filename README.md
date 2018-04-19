@@ -4,4 +4,4 @@
 
 # Agata Żbikowska
 
-Tu będą informacje o mnie, *Agacie*
+Tu będą informacje o mnie, *Agacie* :)
